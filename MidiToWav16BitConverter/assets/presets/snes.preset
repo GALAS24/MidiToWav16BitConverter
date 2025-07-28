@@ -1,0 +1,11 @@
+{
+    "name": "SNES Style",
+    "description": "Настройки в стиле Super Nintendo",
+    "bitCrushDepth": 4.0,
+    "downSampleRate": 2.0,
+    "delayTime": 180.0,
+    "delayFeedback": 0.3,
+    "lowPassFilter": true,
+    "highPassFilter": true,
+    "masterVolume": 0.8
+}
